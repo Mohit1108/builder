@@ -6,7 +6,7 @@
 
 body {
     font-family: "Ubuntu", sans-serif;
-    background-image: url(/template1/asset/bg.jpg);
+    background-image: url(./template1/asset/bg.jpg) !important;
         background-size: cover;
         background-position: center;
 }
