@@ -6,7 +6,7 @@
 
 body {
     font-family: "Ubuntu", sans-serif;
-    background-image: url(/asset/bg.jpg) !important;
+    background-image: url(asset/bg.jpg) !important;
         background-size: cover;
         background-position: center;
 }
@@ -38,7 +38,7 @@ a.anchor {
         color: whitesmoke !important;
 }
 .navbar{
-    background-image: url(/asset/header.jpg);
+    background-image: url(asset/header.jpg);
         /* box-shadow: 10px 10px 50px #5b5a5f,
         -10px -10px 50px #48474f; */
 }
@@ -69,7 +69,7 @@ a.anchor {
 }
 
 #splash {
-    background-image: url(/asset/bg3.jpg);
+    background-image: url(asset/bg3.jpg);
     background-size: cover;
     background-position: center;
     min-height: 600px;
@@ -94,7 +94,7 @@ a.anchor {
 }
 
 #portfolio {
-    background-image: url(/asset/profile.jpg);
+    background-image: url(asset/profile.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -156,7 +156,7 @@ a.anchor {
 }
 
 #about {
-    background-image: url(/asset/about-bg.jpg);
+    background-image: url(asset/about-bg.jpg);
     background-position: center;
     background-size: cover;
     min-height: 500px;
@@ -198,7 +198,7 @@ a.anchor {
 }
 
 #contact {
-    background-image:url(/asset/work-bg.jpg);
+    background-image:url(asset/work-bg.jpg);
     background-position: center;
     background-size: cover;
     min-height: 600px;
